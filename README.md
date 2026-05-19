@@ -154,7 +154,7 @@ Example Response
 
 Installation
 Clone repository:
-git clone https://github.com/your-username/customer-churn-prediction-system.git
+git clone https://github.com/MuhammadTamami/customer-churn-prediction-system.git
 
 Install dependencies:
 pip install -r requirements.txt
